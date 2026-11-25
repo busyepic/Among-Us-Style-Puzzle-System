@@ -1,6 +1,8 @@
 # Among-Us-Style-Puzzle-System
 Memory Puzzle Minigame with tweening and randomized patterns
 Made in May 2026 RoDevs GameJam!
+- Utilized numbered solved states and unsolved states for puzzle progression with arrays and tables
+- Inbuilt functions and services utilized such as TweenService and math.random
 
 https://github.com/user-attachments/assets/99634cee-2ee6-49d8-b3d8-9a385434b9f6
 
